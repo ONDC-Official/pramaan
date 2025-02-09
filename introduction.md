@@ -2,7 +2,7 @@
 
 ## What is Pramaan?
 
-Pramaan is an innovative testing and certification platform designed specifically for the Open Network for Digital Commerce (ONDC) ecosystem. It serves as the cornerstone for ensuring seamless integration and compliance with ONDC protocols, making it easier for businesses to join and operate within the network.
+Pramaan - ONDC Integration Test Bench is an innovative testing and certification platform designed specifically for the Open Network for Digital Commerce (ONDC) ecosystem. It serves as the cornerstone for ensuring seamless integration and compliance with ONDC protocols, making it easier for businesses to join and operate within the network.
 
 ## Purpose and Vision
 
