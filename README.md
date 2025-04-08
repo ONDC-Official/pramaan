@@ -15,7 +15,7 @@ Whether you're a Seller App, Buyer App, or TSP, Pramaan helps validate your appl
 | 🧭 **What is Pramaan?** | [Introduction to Pramaan](https://github.com/ONDC-Official/pramaan/wiki/What-is-Pramaan%3F) |
 | 🌐 **Is Pramaan LIVE for my domain/use case?** | [Check domain status](https://github.com/ONDC-Official/pramaan/wiki/Domain-Status-on-Pramaan) |
 | 🛠 **How do I use Pramaan to test my application?** | [Getting Started Guide](https://github.com/ONDC-Official/pramaan/wiki/Get-Started) |
-| 📚 **Where can I read FAQs or explore more?** | [Pramaan FAQs](https://github.com/ONDC-Official/pramaan/wiki/FAQs-Pramaan) &nbsp;•&nbsp; [Knowledge Base](#) *(coming soon)* |
+| 📚 **Where can I read FAQs or explore more?** | [Pramaan FAQs](https://github.com/ONDC-Official/pramaan/wiki/FAQs-and-Videos) &nbsp;•&nbsp; [Knowledge Base](#) *(coming soon)* |
 | 🆘 **Need help or facing an issue?** | [Raise issue – Get Support](https://github.com/ONDC-Official/pramaan/issues) |
 | 💡 **Want to contribute or suggest improvements?** | [Discussion Forum – Share Feedback](https://github.com/ONDC-Official/pramaan/discussions/categories/suggestions-feedback) |
 
